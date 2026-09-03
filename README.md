@@ -10,7 +10,7 @@ Sou **estudante de Ciência da Computação na PUCRS** e desenvolvedor em forma�
 
 ## 🚀 Sobre mim
 
-* 🎓 Ciência da Computação — PUCRS
+* 🎓 Curso Técnico em Desenvolvimento de Sistemas — SENACRS
 * 💻 Desenvolvimento de software com Java, Python e TypeScript
 * 🤖 Interesse em Inteligência Artificial e automação de processos
 * 📊 Perfil analítico, com experiência em dados, indicadores e otimização de processos
@@ -30,9 +30,7 @@ Sou **estudante de Ciência da Computação na PUCRS** e desenvolvedor em forma�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
 
@@ -50,20 +48,19 @@ Sou **estudante de Ciência da Computação na PUCRS** e desenvolvedor em forma�
 | **MySQL** | Modelagem, persistência e gerenciamento de dados |
 | **Power BI** | Análise de dados, indicadores e visualização de informações |
 | **Excel + VBA** | Automação de rotinas e otimização de processos |
-| **Docker** | Conteinerização e organização de ambientes |
 | **Git/GitHub** | Versionamento, colaboração e gerenciamento de projetos |
 
 ---
 
 ## 🌱 Em evolução
 
-**Inteligência Artificial** | **Machine Learning** | **Docker & DevOps** | **Cloud Computing** | **Arquitetura de Software**
+**Inteligência Artificial** | **Machine Learning** | **Cloud Computing** | **Arquitetura de Software**
 
 ---
 
 ## 💻 Ambiente
 
-**SO:** Windows | **Editor:** Visual Studio Code / IntelliJ IDEA | **Versionamento:** Git & GitHub
+**SO:** Windows | **Editor:** Visual Studio Code | **Versionamento:** Git & GitHub
 
 ---
 
@@ -82,5 +79,5 @@ Sou **estudante de Ciência da Computação na PUCRS** e desenvolvedor em forma�
 ```text
 Inteligência Artificial & Machine Learning
 Arquitetura de Software & Design Patterns
-Docker, DevOps & Cloud Computing
+DevOps & Cloud Computing
 APIs, Microsserviços & Sistemas Distribuídos

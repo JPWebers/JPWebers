@@ -10,7 +10,7 @@ Sou **estudante de Desenvolvimento Sistemas no SENACRS** e desenvolvedor em form
 
 ## 🚀 Sobre mim
 
-* 🎓 Técnico em Desenvolvimento de Sistemas — SENACRS
+* 🎓 Estudante Técnico em Desenvolvimento de Sistemas — SENAC RS
 * 💻 Desenvolvimento de software com Java, Python e TypeScript
 * 🤖 Interesse em Inteligência Artificial e automação de processos
 * 📊 Perfil analítico, com experiência em dados, indicadores e otimização de processos

@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Pedro Webers
+# 👋 Olá, eu sou João Pedro Weber dos Santos
 
 ### Transformo problemas reais em soluções de software, automação e inteligência.
 
@@ -10,7 +10,7 @@ Sou **estudante de Ciência da Computação na PUCRS** e desenvolvedor em forma�
 
 ## 🚀 Sobre mim
 
-* 🎓 Curso Técnico em Desenvolvimento de Sistemas — SENACRS
+* 🎓 Técnico em Desenvolvimento de Sistemas — SENACRS
 * 💻 Desenvolvimento de software com Java, Python e TypeScript
 * 🤖 Interesse em Inteligência Artificial e automação de processos
 * 📊 Perfil analítico, com experiência em dados, indicadores e otimização de processos

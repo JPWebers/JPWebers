@@ -4,7 +4,7 @@
 
 Atuo conectando **desenvolvimento de software, automação e dados** para criar soluções eficientes e impulsionar a transformação digital de processos e negócios.
 
-Sou **estudante de Ciência da Computação na PUCRS** e desenvolvedor em formação. Minha jornada une **programação, análise de dados e resolução de problemas**, sempre com foco em transformar processos complexos em soluções simples, eficientes e escaláveis.
+Sou **estudante de Desenvolvimento Sistemas no SENACRS** e desenvolvedor em formação. Minha jornada une **programação, análise de dados e resolução de problemas**, sempre com foco em transformar processos complexos em soluções simples, eficientes e escaláveis.
 
 ---
 
